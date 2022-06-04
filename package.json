@@ -1,0 +1,19 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "backend-project-lvl1",
+  "main": "bin/brain-games.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alek-pol/backend-project-lvl1.git"
+  },
+  "author": "alek-pol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alek-pol/backend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/alek-pol/backend-project-lvl1#readme"
+}
